@@ -1,8 +1,5 @@
 ﻿using MDD4All.SpecIF.DataModels;
 using MDD4All.SpecIF.DataModels.Manipulation;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MDD4All.SpecIF.DomainModels.Base
 {
